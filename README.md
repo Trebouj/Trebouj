@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Trebouj (That's my name backwards)
 - 👀 I’m interested in back end and some front end stuff
 - 🌱 I’m currently learning Ruby on Rails and some passion for JavaScript
-- 👨‍💻 I'm also on my first Software Engineer Semester
+- 👨‍💻 I'm also on my third Software Engineer Semester
 - 📫 You guys can contact me on Instagram or Gmail
 - 🎧   I'm also a music lover, check out my Spotify, you will find every kind of music there
 <!---
